@@ -1,0 +1,12 @@
+{
+  "common": {
+    "welcome": "Bienvenue",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer"
+  },
+  "home": {
+    "title": "Écran d'Accueil",
+    "subtitle": "Bienvenue dans notre application"
+  }
+}
